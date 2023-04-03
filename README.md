@@ -6,7 +6,7 @@ This  Flutter app developed using Flutter version - Channel stable, 3.7.5 And Da
 
 Installation Instructions:
 
-1. Download the files and open api_sample folder in android studio.
+1. Download the files and open api_sample folder in android studio.(once downloaded ZIP file changes the folder name to api_sample)
 2. Run 'flutter pub get' in terminal
 3. open emulator or connect android device to the system
 4. Run using 'flutter run' command.
